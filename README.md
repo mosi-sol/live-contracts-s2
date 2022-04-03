@@ -25,7 +25,7 @@ read more in -> https://github.com/mosi-sol/live-contracts/wiki
 #
 ### Content sheet:
 
-- 01-SecureSendToken.sol - [here](https://github.com/mosi-sol/live-contracts/tree/main/episode-1)
+- 01-multy token wallet - [here](https://github.com/mosi-sol/live-contracts-s2/tree/main/01-MultyTokenWallet)
 
 ##
 <div>
