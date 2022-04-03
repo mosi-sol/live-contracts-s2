@@ -11,6 +11,11 @@ for more information check my youtube channel: pafecafe
 
 ### **live contract** [season-1](https://github.com/mosi-sol/live-contracts)
 
+#
+### Content sheet:
+
+- 01-multy token wallet - [here](https://github.com/mosi-sol/live-contracts-s2/tree/main/01-MultyTokenWallet)
+
 
 ##
 
@@ -19,11 +24,6 @@ for more information check my youtube channel: pafecafe
 - this repo for live video coding.
 - don't use on final product.
 - read more in -> https://github.com/mosi-sol/live-contracts/wiki
-
-#
-### Content sheet:
-
-- 01-multy token wallet - [here](https://github.com/mosi-sol/live-contracts-s2/tree/main/01-MultyTokenWallet)
 
 ##
 <div>
