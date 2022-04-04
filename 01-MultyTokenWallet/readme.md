@@ -11,6 +11,7 @@
 
 ### info
 - increaseAllowance(address(this), _amount); <- this is for allowance of custom token, do handly by sender
+- need more requirment for finish this code, but logic is finished.
 
 <p align="right"> 
   <a href="https://github.com/mosi-sol" target="blank">
