@@ -32,7 +32,7 @@ for more information check my youtube channel: pafecafe
   <img src="https://img.shields.io/badge/License-MIT-blue?style=flat" alt="cafe_pafe" /></a>  
 </span>
 <span align="center"> 
-<a href="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fmosi-sol%2Flive-contracts" target="blank"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fmosi-sol%2Flive-contracts-s2" alt="pafecafe" /></a> 
+<a href="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fmosi-sol%2Flive-contracts-s2" target="blank"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fmosi-sol%2Flive-contracts-s2" alt="pafecafe" /></a> 
 </span>
 </div>
 
