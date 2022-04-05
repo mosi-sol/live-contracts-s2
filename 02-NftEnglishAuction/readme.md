@@ -5,7 +5,7 @@
 #
 
 ### how to:
-- *deploy* by using 
+- ***deploy*** by using 
 - - nft erc721 address (you are owner)
 - - nft id (you are owner)
 - - set the price for starting BID price
