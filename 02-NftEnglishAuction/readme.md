@@ -13,7 +13,7 @@
 ### test:
 - for testing this, you will need erc721 contract like -> [here](https://github.com/mosi-sol/erc721/tree/main/v5)
 - remember to call `approve for all` for using in auction
-- for better experiance, in line 74 change value
+- for better experiance, in `line 74` change value
 
 ### features:
 - add ERC1155
