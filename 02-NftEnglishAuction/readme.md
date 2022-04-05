@@ -27,7 +27,7 @@
 #
 
 ### disclaimer:
-***as always*** use this code at you *own risk*
+***as always*** use this code at your **own risk**
 
 
 ---
