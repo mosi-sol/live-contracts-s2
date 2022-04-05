@@ -24,6 +24,12 @@
 ### important:
 ***withdraw by using address balance is easiest for hacking, please ensure for using by this term & role***
 
+#
+
+### disclaimer:
+***as always*** use this code at you *own risk*
+
+
 ---
 
 <p align="right"> 
