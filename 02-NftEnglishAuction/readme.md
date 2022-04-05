@@ -21,6 +21,9 @@
 - custom ERC20 for pay (buy nft)
 - seller can not be bidder (require on bid function)
 
+### important:
+***withdraw by using address balance is easiest for hacking, please ensure for using by this term & role***
+
 ---
 
 <span align="right"> 
