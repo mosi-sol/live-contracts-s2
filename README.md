@@ -14,7 +14,8 @@ for more information check my youtube channel: pafecafe
 #
 ### Content sheet:
 
-- 01-multy token wallet - [here](https://github.com/mosi-sol/live-contracts-s2/tree/main/01-MultyTokenWallet)
+- 01-Multy Token Wallet - [here](https://github.com/mosi-sol/live-contracts-s2/tree/main/01-MultyTokenWallet) 
+- 02-NFT English Auction - [here](https://github.com/mosi-sol/live-contracts-s2/tree/main/02-NftEnglishAuction)
 
 
 ##
