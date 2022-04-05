@@ -1,5 +1,5 @@
 ## Simple Nft Auction
-- auction type: English auction
+- auction type: [English auction](https://en.wikipedia.org/wiki/English_auction)
 - nft type : ERC721 (1 of 1)
 
 #
