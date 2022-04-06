@@ -69,7 +69,7 @@ contract AuctionNFT is Ownable, ReentrancyGuard {
     // logics
     function _startAuction() internal returns (bool) {
         require(!started, "started");
-        require(msg.sender == seller, "not seller");
+        require(msg.sender == seller, "not seller"); // walletOfOwner(address) => seller
         nft.transferFrom(msg.sender, address(this), nftId);
         started = true;
         endAt = block.timestamp + 2 days; // 7 days is a very famous type for artists :)
