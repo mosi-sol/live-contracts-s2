@@ -1,0 +1,11 @@
+## What is ABI in Solidity
+
+- run `translate` function
+- put an address + an uint
+
+```
+recipient: 0x5B38Da6a701c568545dCfcB03FcB875f56beddC4
+amount: 2002
+output: 0xa9059cbb0000000000000000000000005b38da6a701c568545dcfcb03fcb875f56beddc400000000000000000000000000000000000000000000000000000000000007d2
+```
+
