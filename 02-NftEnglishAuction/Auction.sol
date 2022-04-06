@@ -2,6 +2,7 @@
 pragma solidity 0.8;
 
 import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC721/IERC721.sol";
+import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC721/IERC721Receiver.sol";
 // security
 import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/access/Ownable.sol";
 import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/security/ReentrancyGuard.sol";
@@ -118,6 +119,15 @@ contract AuctionNFT is Ownable, ReentrancyGuard {
     }
 
     //--------------------------------------
+    
+    function onERC721Received(
+        address,
+        address,
+        uint256,
+        bytes memory
+    ) public virtual override returns (bytes4) {
+        return this.onERC721Received.selector;
+    }
 
     // for testing this, you will need erc721 contract like -> https://github.com/mosi-sol/erc721/tree/main/v5
 }
