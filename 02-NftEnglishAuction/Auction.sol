@@ -120,6 +120,7 @@ contract AuctionNFT is Ownable, ReentrancyGuard {
 
     //--------------------------------------
     
+    // NFT HOLDER
     function onERC721Received(
         address,
         address,
