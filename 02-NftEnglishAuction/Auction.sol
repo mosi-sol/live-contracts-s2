@@ -72,7 +72,7 @@ contract AuctionNFT is Ownable, ReentrancyGuard {
         require(msg.sender == seller, "not seller");
         nft.transferFrom(msg.sender, address(this), nftId);
         started = true;
-        endAt = block.timestamp + 7 days; // 7 days is a very famous type for artists :)
+        endAt = block.timestamp + 2 days; // 7 days is a very famous type for artists :)
         _idCounter.increment();
         emit Start(_idCounter.current());
         return true;
