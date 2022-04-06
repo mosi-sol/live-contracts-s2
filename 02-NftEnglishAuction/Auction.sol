@@ -125,7 +125,7 @@ contract AuctionNFT is Ownable, ReentrancyGuard {
         address,
         uint256,
         bytes memory
-    ) public virtual override returns (bytes4) {
+    ) public virtual returns (bytes4) {
         return this.onERC721Received.selector;
     }
 
