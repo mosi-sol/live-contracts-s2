@@ -14,6 +14,8 @@ recipient address: 0000000000000000000000005b38da6a701c568545dcfcb03fcb875f56bed
 function value: 00000000000000000000000000000000000000000000000000000000000007d2
 ```
 
+function signature: `"translate(address,uint256)"`
+
 #
 
 <p align="right"> 
