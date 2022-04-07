@@ -61,12 +61,14 @@ contract MicroMultiBankUser {
     function transferTo(address to, uint amount) external isValidUser {
         require(address(this).balance >= amount);
         payable(to).transfer(amount);
+        _balance -= amount;
         emit TransferingTo(msg.sender, to, amount, block.timestamp);
     }
     
     function withdraw(uint amount) external isValidUser {
         require(address(this).balance >= amount);
         payable(msg.sender).transfer(amount);
+        _balance -= amount;
         emit WithdrawTo(msg.sender, amount, block.timestamp);
     }
 
