@@ -2,6 +2,8 @@
 
 watch the logic of stake (not 'reward , timelock , pool' was added).
 
+in this example you can use `IERC20` object use is/as in `staking(address token,` . like `staking(IERC20 token,`
+
 ---
 ```solidity
 // deploy this token for test
