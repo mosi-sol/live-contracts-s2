@@ -2,6 +2,7 @@
 
 watch the logic of stake (not 'reward , timelock , pool' was added).
 
+---
 ```solidity
 // deploy this token for test
 import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
@@ -12,3 +13,4 @@ contract TestToken is ERC20 {
     }
 }
 ```
+dont forget to approve `stake contract` for spending/allowing test token.
