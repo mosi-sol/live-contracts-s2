@@ -18,6 +18,7 @@ for more information check my youtube channel: pafecafe
 - 02-NFT English Auction - [here](https://github.com/mosi-sol/live-contracts-s2/tree/main/02-NftEnglishAuction) 
 - 03-Abi explain - [here](https://github.com/mosi-sol/live-contracts-s2/tree/main/03-What-is-Abi) 
 - 04-Micro Accounting System - [here](https://github.com/mosi-sol/live-contracts-s2/tree/main/04-micro-multy-user-accounting) 
+- 05-Simple Staking Logic {ERC20} - [here](https://github.com/mosi-sol/live-contracts-s2/tree/main/05-simple-staking) 
 
 
 ##
