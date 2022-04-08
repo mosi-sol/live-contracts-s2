@@ -5,7 +5,7 @@ import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
 
 contract SimpleStaking {
 
-  mapping(address => mapping(address => uint)) private _balances;
+  mapping(address => mapping(address => uint)) private _balances; // who -> token -> value
   
   function staking(address token, uint amount) external returns(bool success) {
       success = _staking(token, amount);
