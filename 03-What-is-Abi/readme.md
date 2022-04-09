@@ -12,16 +12,13 @@
 
 ### explain output
 1- function signature, bytes4: `0xa9059cbb`
+- 0xa9059cbb is encode of `function signature` like: `"functionName(address,uint256)"`
 
 2- recipient address: `0000000000000000000000005b38da6a701c568545dcfcb03fcb875f56beddc4`
+- address (`uint160`)
 
 3- function value: `00000000000000000000000000000000000000000000000000000000000007d2`
-
-### information output
-- 0xa9059cbb is encode of `function signature` like: `"functionName(address,uint256)"`
-- address (`uint160`)
-- 00....007d2 is hex code of '2002'.
-
+- 00....007d2 is hex code of '2002'
 
 function signature: `"translate(address,uint256)"`
 
