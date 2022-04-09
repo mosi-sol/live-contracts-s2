@@ -18,7 +18,7 @@
 
 ### intro
 - 0xa9059cbb is encode of `function signature` like: `"functionName(address,uint256)"`
-- address (`uit160`)
+- address (`uint160`)
 - 00....007d2 is hex code of '2002'.
 
 
