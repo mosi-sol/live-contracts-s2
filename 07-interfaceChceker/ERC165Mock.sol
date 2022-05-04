@@ -6,11 +6,11 @@ import './IERC165.sol';
 
 contract ERC165 is IERC165 {
   mapping(bytes4 => bool) private _supportedInterfaces;
-    function supportsInterface(bytes4 interfaceId) public view virtual override returns (bool) {
+    function supportsInterface(bytes4 interfaceId) public view override returns (bool) {
         return _supportedInterfaces[interfaceId];
     }
     
-    function testHelper() public vieew returns (bytes4) {
+    function testHelper() public view returns (bytes4) {
         return bytes4(keccak256('supportsInterface(bytes4)'));
     }
     
