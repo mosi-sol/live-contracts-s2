@@ -19,7 +19,8 @@ for more information check my youtube channel: pafecafe
 - 03-Abi explain - [here](https://github.com/mosi-sol/live-contracts-s2/tree/main/03-What-is-Abi) 
 - 04-Micro Accounting System - [here](https://github.com/mosi-sol/live-contracts-s2/tree/main/04-micro-multy-user-accounting) 
 - 05-Simple Staking Logic {ERC20} - [here](https://github.com/mosi-sol/live-contracts-s2/tree/main/05-simple-staking) 
-- 06-Vault NFT {ERC721} - [here](https://github.com/mosi-sol/live-contracts-s2/tree/main/06-vault721)
+- 06-Vault NFT {ERC721} - [here](https://github.com/mosi-sol/live-contracts-s2/tree/main/06-vault721) 
+- 07-interface Chceker {ERC165} - [here](https://github.com/mosi-sol/live-contracts-s2/tree/main/07-interfaceChceker) 
 
 
 ##
