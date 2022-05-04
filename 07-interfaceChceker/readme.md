@@ -7,5 +7,8 @@ in these casese for implementation contracts together would to checking:
 
 this relation easily made by `keccak` hash algorithm.
 
+## autherize usecase
+- can use for `user address` or `contract address` for security checks.
+
 ---
 **live stream at**: *wednesday 05-04-2022*
