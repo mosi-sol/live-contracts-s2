@@ -20,7 +20,8 @@ for more information check my youtube channel: pafecafe
 - 04-Micro Accounting System - [here](https://github.com/mosi-sol/live-contracts-s2/tree/main/04-micro-multy-user-accounting) 
 - 05-Simple Staking Logic {ERC20} - [here](https://github.com/mosi-sol/live-contracts-s2/tree/main/05-simple-staking) 
 - 06-Vault NFT {ERC721} - [here](https://github.com/mosi-sol/live-contracts-s2/tree/main/06-vault721) 
-- 07-interface Chceker {ERC165} - [here](https://github.com/mosi-sol/live-contracts-s2/tree/main/07-interfaceChceker) 
+- 07-Interface Chceker {ERC165} - [here](https://github.com/mosi-sol/live-contracts-s2/tree/main/07-interfaceChceker) 
+- 08-Vault ERC20 - [here](https://github.com/mosi-sol/live-contracts-s2/tree/main/08-vault-erc20) 
 
 
 ##
