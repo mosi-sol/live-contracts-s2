@@ -45,8 +45,10 @@ contract EtherWallet {
     function getBalanceToken() external view returns (uint) { // mapping
         return customTokenAmount;
     }
-
+    
+    // not use function changeToken, if you not withdraw
     function changeToken(address _token) external onlyOwner {
+        customTokenAmount = 0;
         token = IERC20(_token);
     }
 }
