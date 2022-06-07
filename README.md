@@ -26,6 +26,7 @@ for more information check my youtube channel: pafecafe
 - 10-Social media Like system - [here](https://github.com/mosi-sol/live-contracts-s2/tree/main/10-like-system) 
 - 11-Poster - [here](https://github.com/mosi-sol/live-contracts-s2/tree/main/11-Poster) 
 - 12-Blog by Poster - [here](https://github.com/mosi-sol/live-contracts-s2/tree/main/12-Blog) 
+- 13-NFT Mock - [here](https://github.com/mosi-sol/live-contracts-s2/tree/main/13-NFT-Mock) 
 
 
 ##
