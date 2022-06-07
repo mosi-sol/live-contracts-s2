@@ -13,8 +13,8 @@ contract BlogByPoster is IPoster {
     uint postId;
     string blogName;
 
-    event Who(uint id, address creator);
-    event Tips(uint id, address sender, address recipiant);
+    event Who(uint indexed id, address creator);
+    event Tips(uint indexed id, address sender, address recipiant);
 
     constructor(
         string memory _blogName, 
