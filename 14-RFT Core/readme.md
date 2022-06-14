@@ -2,6 +2,8 @@
 ### what is RFT
 Re-Fungible Token
 
+### this code came from ERC864
+
 ## info
 `uint public divisibility = 1000; `
 
