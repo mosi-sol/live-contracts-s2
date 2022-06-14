@@ -28,6 +28,7 @@ for more information check my youtube channel: pafecafe
 - 12-Blog by Poster - [here](https://github.com/mosi-sol/live-contracts-s2/tree/main/12-Blog) 
 - 13-NFT Mock - [here](https://github.com/mosi-sol/live-contracts-s2/tree/main/13-NFT-Mock) 
 - 14-RFT Core - [here](https://github.com/mosi-sol/live-contracts-s2/tree/main/14-RFT%20Core) 
+- 15-SBT {Soulbound token} - [here](https://github.com/mosi-sol/live-contracts-s2/tree/main/15-Soulbound%20Token) 
 
 
 ##
