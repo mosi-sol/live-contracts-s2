@@ -1,7 +1,7 @@
 # Tokenamize Simulation
 
-`born()` = mint
-`burn()` = delete
+- `born()` = mint
+- `burn()` = delete
 
 ### use ver2.sol
 
