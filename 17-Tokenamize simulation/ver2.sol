@@ -3,7 +3,7 @@ pragma solidity 0.8.15;
 
 interface ITokenamize{
 	event Born(uint id);
-	event Burn(uint id);
+	event Burn(address uniqueOwner));
 	event Transfer(uint id);
 	function theOwner(address who) view external returns (uint);
 	function isOwner(address who) view external returns (bool);
@@ -43,7 +43,7 @@ contract Tokenamize is ITokenamize{
 
 	function burn() external override returns (uint){
 		_burn();
-		emit Burn(_id);
+		emit Burn(msg.sender);
 		return 0;
 	}
 
