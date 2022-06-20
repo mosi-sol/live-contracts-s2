@@ -32,6 +32,7 @@ for more information check my youtube channel: pafecafe
 - 16-Tokenamize - [here](https://github.com/mosi-sol/live-contracts-s2/tree/main/16-Tokenamize%20Asset) 
 - 17-Tokenamize Simulation (T-Pattern) - [here](https://github.com/mosi-sol/live-contracts-s2/tree/main/17-Tokenamize%20simulation) 
 - 18-Comput Hashing - [here](https://github.com/mosi-sol/live-contracts-s2/tree/main/18-Compute%20Hashing) 
+- 19-Multisig Wallet - [here](https://github.com/mosi-sol/live-contracts-s2/tree/main/19-Multisig%20Wallet) 
 
 
 ##
