@@ -3,7 +3,7 @@
 in this version i try to learn working by mapping like a database.
 
 ### there is a bug: 
-- in the `constructor` would to check **owners >= signers(validators)**
+- in the `constructor` would to check: **owners >= signers(validators)**
 - for fix in backend just check
 - or in frontend check those values
 
