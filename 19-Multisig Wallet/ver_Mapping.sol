@@ -85,6 +85,7 @@ contract MultiSigWallet {
     }
 
     function submit(address recipient, uint amount) public onlySigner returns (uint) {
+        require(recipient != address(0), "submit failed, dont go to black hole!");
         transactionId += 1;
         _request[transactionId][recipient] = amount;
         _requestAddress[transactionId] = recipient;
