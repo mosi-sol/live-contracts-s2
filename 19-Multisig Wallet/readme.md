@@ -1,6 +1,6 @@
 # Multisig Wallet
 
-- in this version i try to learn: 
+- in this version i try to : 
 - - working by mapping like a database.
 - - save gas 
 
