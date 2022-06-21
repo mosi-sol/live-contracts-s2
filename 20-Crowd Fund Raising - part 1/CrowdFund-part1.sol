@@ -123,7 +123,7 @@ contract Crowdfunding {
         campagin[_campaginId].finished = true;
         uint _amount = _balanceOfCampagin[_campaginId];
         _balanceOfCampagin[_campaginId] = 0;
-        (bool success, ) = payable(campagin[_campaginId].benefit).call{value: balanceOfCampagin(_campaginId)}("");
+        (bool success, ) = payable(campagin[_campaginId].benefit).call{value: _amount}("");
         return (success, _amount);
     }
 
