@@ -33,13 +33,17 @@ contract MultiSigWallet {
     }
 
     modifier onlySigner() {
-        require(_signers[msg.sender],"just valid user");
+       _onlySigner();
         _;
     }
 
     // validators --------------------------------
     function _onlyOwner() private view {
         require(msg.sender == _owner, "only owner is valid");
+    }
+    
+    function _onlySigner() private view {
+         require(_signers[msg.sender],"just valid user");
     }
 
     // init --------------------------------
