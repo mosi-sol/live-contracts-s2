@@ -1,6 +1,8 @@
 # Multisig Wallet
 
-in this version i try to learn working by mapping like a database.
+- in this version i try to learn: 
+- - working by mapping like a database.
+- - save gas 
 
 ### there is a bug: 
 - in the `constructor` would to check : **owners >= signers(validators)**
