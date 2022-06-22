@@ -34,6 +34,7 @@ for more information check my youtube channel: pafecafe
 - 18-Comput Hashing - [here](https://github.com/mosi-sol/live-contracts-s2/tree/main/18-Compute%20Hashing) 
 - 19-Multisig Wallet - [here](https://github.com/mosi-sol/live-contracts-s2/tree/main/19-Multisig%20Wallet) 
 - 20-Crowd Fundraising {part 1} - [here](https://github.com/mosi-sol/live-contracts-s2/tree/main/20-Crowd%20Fund%20Raising%20-%20part%201)  
+- 21-Crowd Fundraising {part 2} - [here](https://github.com/mosi-sol/live-contracts-s2/tree/main/21-Crowd%20Fund%20Raising%20part%202)
 
 
 ##
