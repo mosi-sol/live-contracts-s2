@@ -8,7 +8,7 @@ contract CrowdfundingFactory {
         crowdfunding.create(benefit, amount, end, timerNeed);
     }
 
-    // to run conterbute = remove or commenting first valdator on -> _areValidToPay function in -> Crowdfunding contract
+    // to run conterbute = remove or commenting first valdator on -> _areValidToPay function in -> Crowdfunding contract (line 106)
     function conterbute(uint _campaginId) public payable {
         crowdfunding.conterbute(_campaginId);
     }
