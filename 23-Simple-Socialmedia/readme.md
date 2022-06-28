@@ -10,6 +10,9 @@
 - 0x8b613e017Ae1658837B9f65c2CA8FD1dAa54AE3f
 - https://testnet.bscscan.com/address/0x8b613e017ae1658837b9f65c2ca8fd1daa54ae3f
 
+- if you check the events, tokenId 1 : encrypted -> Hello everyone, welcome
+- and answered is: encrypted -> 06-29-2022 (wednesday)
+
 ##
 
 ### stringToBytes() -> encoder
