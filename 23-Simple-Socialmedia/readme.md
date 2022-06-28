@@ -6,6 +6,12 @@
 ---
 > 06-28-2022 live stream.
 
+## BSC testnet
+- 0x8b613e017Ae1658837B9f65c2CA8FD1dAa54AE3f
+- https://testnet.bscscan.com/address/0x8b613e017ae1658837b9f65c2ca8fd1daa54ae3f
+
+##
+
 ### stringToBytes() -> encoder
 - mosi said hello, yelling welcome! 1234567890
 
