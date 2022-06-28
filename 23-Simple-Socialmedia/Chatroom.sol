@@ -31,7 +31,7 @@ contract IssueTrakable is ERC165, IIssueTrakable {
     uint private _tokenId;
     mapping(uint => mapping(bytes => bool)) private _issues; // id -> data -> isSolved
     mapping(uint => address) private _asked; // id -> sender
-    mapping(uint => address) private _answered; // id -> closed the issue by join them group/team
+    mapping(uint => address) private _answered; // id -> answer the issue/requst/ask
 
     // ****************************************************** \\
     /// Error IssueTrakable: Transaction failed!
@@ -68,14 +68,10 @@ contract IssueTrakable is ERC165, IIssueTrakable {
     }
 
     // libs ----------------------------------
-    // mosi said hello, yelling welcome! 1234567890
     function stringToBytes(string calldata listener) external pure returns (bytes memory encryption) {
         encryption = bytes(abi.encode(listener));
     }
-    /* 0x000000000000000000000000000000000000000000000000000000000000002
-    000000000000000000000000000000000000000000000000000000000000000
-    2c6d6f736920736169642068656c6c6f2c2079656c6c696e672077656c636f6d6521203132333435363738393
-    00000000000000000000000000000000000000000 */
+    
     function bytesToString(bytes calldata sniffer) external pure returns (string memory decryption) {
         decryption = abi.decode(sniffer, (string));
     }
