@@ -36,6 +36,7 @@ for more information check my youtube channel: pafecafe
 - 20-Crowd Fundraising {part 1} - [here](https://github.com/mosi-sol/live-contracts-s2/tree/main/20-Crowd%20Fund%20Raising%20-%20part%201)  
 - 21-Crowd Fundraising {part 2} - [here](https://github.com/mosi-sol/live-contracts-s2/tree/main/21-Crowd%20Fund%20Raising%20part%202) 
 - 22-Explorer - [here](https://github.com/mosi-sol/live-contracts-s2/tree/main/22-Exploring-Example) 
+- 23-Chatroom - [here](https://github.com/mosi-sol/live-contracts-s2/tree/main/23-Simple-Socialmedia) 
 
 
 ##
