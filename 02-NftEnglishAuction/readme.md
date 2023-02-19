@@ -36,3 +36,44 @@
 <a href="https://github.com/mosi-sol/live-contracts-s2" target="blank">
   <img src="https://img.shields.io/badge/License-MIT-blue?style=flat" alt="cafe_pafe" /></a>  
 </p>
+
+---
+
+### contract info
+
+|  Contract  |         Type        |       Bases      |                  |                 |
+|:----------:|:-------------------:|:----------------:|:----------------:|:---------------:|
+|     └      |  **Function Name**  |  **Visibility**  |  **Mutability**  |  **Modifiers**  |
+||||||
+| **AuctionNFT** | Implementation | Ownable, ReentrancyGuard |||
+| └ | <Constructor> | Public ❗️ | 🛑  |NO❗️ |
+| └ | startAuction | External ❗️ | 🛑  | onlyOwner |
+| └ | bid | External ❗️ |  💵 |NO❗️ |
+| └ | end | External ❗️ | 🛑  | onlyOwner |
+| └ | _startAuction | Internal 🔒 | 🛑  | |
+| └ | _bid | Internal 🔒 | 🛑  | |
+| └ | _end | Internal 🔒 | 🛑  | |
+| └ | withdraw | External ❗️ | 🛑  | nonReentrant |
+| └ | onERC721Received | Public ❗️ | 🛑  |NO❗️ |
+
+
+ Legend
+
+|  Symbol  |  Meaning  |
+|:--------:|-----------|
+|    🛑    | Function can modify state |
+|    💵    | Function is payable |
+
+
+### signature hash
+
+| Sighash   |   Function Signature | 
+| ---- | ---- | 
+| 6b64c769  |  startAuction() | 
+| 1998aeef  |  bid() | 
+| efbe1c1c  |  end() | 
+| 1974a003  |  _startAuction() | 
+| b45e54fb  |  _bid() | 
+| 3c20ee6e  |  _end() | 
+| 3ccfd60b  |  withdraw() | 
+| 150b7a02  |  onERC721Received(address,address,uint256,bytes) | 
